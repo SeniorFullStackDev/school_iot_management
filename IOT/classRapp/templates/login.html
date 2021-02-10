@@ -1,0 +1,130 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Smart Campus Dashboard - Admin Login Page</title>
+    <style>
+        body {
+            height: 100%;
+            margin: 0;
+            font-family: 'Lato', sans-serif;
+            line-height: 180%;
+            color: #4458c0;
+            text-align: center;
+            overflow-x: hidden;
+            scroll-behavior: smooth;
+        }
+
+        html {
+
+            height: 100%;
+            margin: 0;
+            font-family: 'Lato', sans-serif;
+            line-height: 180%;
+            color: #4458c0;
+            text-align: center;
+            overflow-x: hidden;
+        }
+
+        .parallax2 {
+            background: url(../../static/profile.png);
+            min-height: 100%;
+        }
+
+        .parallax2 {
+            position: relative;
+            opacity: .75;
+            background-position: center;
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+        }
+
+        .center-screen {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            min-height: 100vh;
+        }
+
+        @media (max-width : 768px) {
+            .heading {
+                font-size: 250%;
+            }
+
+            .heading-sm {
+                font-size: 180%;
+            }
+
+            .two-col {
+                width: 100%;
+                padding: 0;
+                text-align: center;
+            }
+
+            .col {
+                width: 100%;
+                padding: 0;
+                text-align: center;
+            }
+        }
+
+        @media screen and (max-width: 1024px) {
+            .nav-links {
+                width: 60%;
+            }
+        }
+
+        @media screen and (max-width: 768px) {
+            body {
+                overflow-x: hidden;
+            }
+
+            .nav-links {
+                position: absolute;
+                right: 0px;
+                height: 92vh;
+                top: 8vh;
+                background-color: #1808a5;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                width: 50%;
+                transform: translateX(100%);
+                transition: transform 0.5s ease-in;
+            }
+
+            .nav-links li {
+                opacity: 0;
+            }
+
+            .burger {
+                display: block;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="parallax2">
+
+
+        <div class="center-screen">
+            <h2>Login</h2>
+            <form method="post">
+                <input type="hidden" name="csrfmiddlewaretoken" value="cI6htWUDLjnN5fmkXmAvK1hbMi5XqKOfZAGZRNs11pyZTcOBLzgwFXfcstBMG6zy">
+                <p><label for="id_username">Username:</label> <input type="text" name="username" autofocus autocapitalize="none" autocomplete="username" maxlength="150" required id="id_username"></p>
+<p><label for="id_password">Password:</label> <input type="password" name="password" autocomplete="current-password" required id="id_password"></p>
+                <button type="submit">Login</button>
+            </form>
+
+        </div>
+    </div>
+
+</body>
+
+</html>

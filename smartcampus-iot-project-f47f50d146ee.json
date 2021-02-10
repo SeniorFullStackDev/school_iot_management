@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "smartcampus-iot-project",
+  "private_key_id": "f47f50d146ee63d5135a6a7c75396be55a005025",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCYQJVaBUqvABL4\n5ntOY94JChewnbtrF1a2AQISRzAJeGrB/aGQIhXGEE9aWwi/Vb0Gc5woySOI7+Cl\nmhFwACrKBV4oRANIuy4LaXaeAoOWbRmu2il3UrR/e1H/WyrtwgO/34oKNFVAU+vP\nszbiC/riLLaOZDgNLUlIZmLth1w43NeCMSoNkz97WD5e4EgKSzGc+GYkyUqNSY/x\n89RAecHYjWFj8NAMw4CC9NKntV7nFPIc6tTubMyScgbNs9cfGTVBd4SMdVKlfyTu\nGt8BRpevFXIp1qc//0W4LMTLj7ndlhAXqSKQNn7tIeRXIXYM+T1VYDCD5k0h/vwV\nMlWtdyNRAgMBAAECggEAP8cGCTCgSVBxohwCWSMSdpzosY5RXRnos9MWSAvT/pOX\nvO1/CT6N+msIoqPxtRy4UwSIzLj9DrbVVumEFnOrePboq1taONRYBGXIT4ZkEtZe\n5NT0e8yEWcaR4bMR94jHQ0/jpkSn1YuSA25iNiyoiqgKTPmEVVi8Evz4weFq61JJ\n8ZcNH+YNiWX4bRgFjRXzHv3JIgaGg0wTIIWPhI4SEp7eVZ1Ta9Rf0lxnBNB/XJ7L\np+am6dTZ+0OCo1Ok/hgY8N9celF+aqKOV2nwj+eoL3bHJtgm59kKY8GwG+/b4ws/\npowJhjHlsF/TCmy/4KaCdlYv0XbjX3ZivuOz2pXW1QKBgQDJRTqpkC+t0wGN65U1\ndQ99e+PslVJOA7TJZBX51ps1xfXh9GRN9F/UhTusdb1PqT3ImwQaCee+dfIH3yen\nlQNG0nGCM48mle5DMfH/aqu18HxSyf9m/Fr8Z6sjgZCgSFQTraYLMvUpmSK0o4gn\nhz3GjJ1g8bePvCmv+9Paw1P5xwKBgQDBpx57IN1Gcm9rvjJwbdSOvIUOBEEvdCf1\nOGo7VjmvIzpqcMrRVB4453GTeSH+F3w0B2VA9qGSozbN+hlC1ddjWeZDdSUXLk0u\nqrD2jEe4ajT8EsalPrWVBFa8dNOedM4uarR9bK8nvq3/r0Ykr8QR6FH1OCu6t94i\nrLzVSkM6JwKBgQCnzgBKvtwBoJr7KB8Oorp3dINjDFvCj3R7M+belf5xpsqJyKiY\nFdaP6UUHVGKxt/i6+ANDcl60fMF9rp/xKFvDAFGCrFn9YaN0gn+w486lsgr1O1Sl\nGGEDb6tPvwZFnAf9IBn/3ExqkjJNSMqLqkXm8/WCjgTs4YQgJWVMTu4EoQKBgQCe\nB2vXXO1VtML6MJ7moqoHxQ3rb0tmlyqYcW43d9jg9CWSgPLxuexj0XMcvogf2zhv\nGO3nApy9llV95y9AHFOFbvJ6cBlRfmZbw81flQBeHMWaQxQ5+x+hOIYzij67G2S5\n+jfJ9qxFCdTiRz09aPXfCy/+pdUBrVQoBcCfadfMlwKBgB5j09JqtK8omlVEeGQp\nJMT2MNfKHMqCjR/tSjf1wL3qk2/gpkDYUqE8hHaxpjmLsdHtZETwn+iKr/8SwG+b\n12hoojOCPaEU78yuz0J8/oMeMn6Awv8moJVufg6nD5Y3pDgeQlcSfiVesdZ7HM1X\nngql4OCZLXgvzH8Lmg8MvWK4\n-----END PRIVATE KEY-----\n",
+  "client_email": "smartcampus-iot-project@appspot.gserviceaccount.com",
+  "client_id": "107357152914909741775",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/smartcampus-iot-project%40appspot.gserviceaccount.com"
+}

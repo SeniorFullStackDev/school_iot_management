@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e7082ab2-b252-450f-9cb2-f6aa91811483" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W632amOTjHtXyJv67EoBdOCj8A" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/IOT/classRapp/static" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/IOT/classRapp/static" />
+      <recent name="$PROJECT_DIR$/IOT/classRapp" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/IOT/classRapp/static" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.urls">
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DJANGO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/DJANGO/lib/python3.7/site-packages/django/db/models" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Documents/DJANGO/lib/python3.7/site-packages/django/db/models/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="admin" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DJANGO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/IOT/profiles" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/IOT/profiles/admin.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="models" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DJANGO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/IOT/profiles" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/IOT/profiles/models.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="settings" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DJANGO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/IOT/IOT" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/IOT/IOT/settings.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="urls" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DJANGO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/IOT/IOT" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/IOT/IOT/urls.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.urls" />
+        <item itemvalue="Python.models" />
+        <item itemvalue="Python.__init__" />
+        <item itemvalue="Python.settings" />
+        <item itemvalue="Python.admin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7082ab2-b252-450f-9cb2-f6aa91811483" name="Default Changelist" comment="" />
+      <created>1578456010541</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578456010541</updated>
+      <workItem from="1578466110915" duration="76000" />
+      <workItem from="1578466605316" duration="3748000" />
+      <workItem from="1578473585441" duration="492000" />
+      <workItem from="1578474087295" duration="7278000" />
+      <workItem from="1578595106225" duration="289000" />
+      <workItem from="1578679708048" duration="987000" />
+      <workItem from="1578715046436" duration="763000" />
+      <workItem from="1578717688166" duration="17455000" />
+      <workItem from="1579091317790" duration="6076000" />
+      <workItem from="1579146701659" duration="5848000" />
+      <workItem from="1579317375243" duration="644000" />
+      <workItem from="1579327520237" duration="993000" />
+      <workItem from="1579328538083" duration="13861000" />
+      <workItem from="1579550534657" duration="1942000" />
+      <workItem from="1579582278588" duration="940000" />
+      <workItem from="1579583585407" duration="7827000" />
+      <workItem from="1579669884537" duration="26380000" />
+      <workItem from="1579981732385" duration="893000" />
+      <workItem from="1580011764961" duration="677000" />
+      <workItem from="1580013145592" duration="1266000" />
+      <workItem from="1580015621503" duration="1979000" />
+      <workItem from="1580021128446" duration="19324000" />
+      <workItem from="1580099400560" duration="16751000" />
+      <workItem from="1580231396574" duration="15302000" />
+      <workItem from="1580574309693" duration="1391000" />
+      <workItem from="1580576278976" duration="6233000" />
+      <workItem from="1580741258687" duration="1397000" />
+      <workItem from="1580836663861" duration="639000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="215" y="90" key="#Inspections" timestamp="1580642605751">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="215" y="90" key="#Inspections/0.23.1440.806@0.23.1440.806" timestamp="1580642605751" />
+    <state x="215" y="90" key="#Inspections/0.23.1440.808@0.23.1440.808" timestamp="1579690069293" />
+    <state x="295" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579673120878">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="295" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.808@0.23.1440.808" timestamp="1579673120878" />
+    <state x="408" y="188" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1580131270477">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="408" y="185" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1440.900@0.0.1440.900" timestamp="1578717561509" />
+    <state x="408" y="188" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.804@0.23.1440.804" timestamp="1580131270477" />
+    <state x="425" y="180" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580237862556">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="425" y="180" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.806@0.23.1440.806" timestamp="1580237862556" />
+    <state x="827" y="306" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1579104270487">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="827" y="306" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1440.812@0.23.1440.812" timestamp="1579104270487" />
+    <state width="1398" height="243" key="GridCell.Tab.0.bottom" timestamp="1580410827553">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state width="1398" height="243" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580304063008" />
+    <state width="1398" height="243" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1580410827553" />
+    <state width="1062" height="205" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1580234909429" />
+    <state width="539" height="194" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1578473550811" />
+    <state width="1398" height="243" key="GridCell.Tab.0.center" timestamp="1580410827534">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state width="1398" height="243" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1580304063005" />
+    <state width="1398" height="243" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1580410827534" />
+    <state width="1062" height="205" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1580234909427" />
+    <state width="539" height="194" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1578473550810" />
+    <state width="1398" height="243" key="GridCell.Tab.0.left" timestamp="1580410827479">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state width="1398" height="243" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1580304063000" />
+    <state width="1398" height="243" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1580410827479" />
+    <state width="1062" height="205" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1580234909426" />
+    <state width="539" height="194" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1578473550809" />
+    <state width="1398" height="243" key="GridCell.Tab.0.right" timestamp="1580410827538">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state width="1398" height="243" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1580304063006" />
+    <state width="1398" height="243" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1580410827538" />
+    <state width="1062" height="205" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1580234909428" />
+    <state width="539" height="194" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1578473550810" />
+    <state x="229" y="66" key="SettingsEditor" timestamp="1580023352362">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="229" y="48" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1579590378041" />
+    <state x="229" y="66" key="SettingsEditor/0.23.1440.804@0.23.1440.804" timestamp="1580023352362" />
+    <state x="229" y="66" key="SettingsEditor/0.23.1440.808@0.23.1440.808" timestamp="1578466157525" />
+    <state x="413" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1580838371596">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="413" y="258" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1580576545237" />
+    <state x="413" y="258" key="com.intellij.ide.util.TipDialog/0.23.1440.804@0.23.1440.804" timestamp="1580099403305" />
+    <state x="413" y="259" key="com.intellij.ide.util.TipDialog/0.23.1440.806@0.23.1440.806" timestamp="1580838371596" />
+    <state x="413" y="259" key="com.intellij.ide.util.TipDialog/0.23.1440.808@0.23.1440.808" timestamp="1580741259124" />
+    <state x="413" y="260" key="com.intellij.ide.util.TipDialog/0.23.1440.812@0.23.1440.812" timestamp="1579327520611" />
+    <state x="28" y="127" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1580027033577">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="28" y="116" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1440.900@0.0.1440.900" timestamp="1579548591317" />
+    <state x="28" y="127" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1440.806@0.23.1440.806" timestamp="1580027033577" />
+    <state x="329" y="23" width="782" height="808" key="find.popup" timestamp="1579334884644">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="329" y="23" width="782" height="808" key="find.popup/0.23.1440.808@0.23.1440.808" timestamp="1579334884644" />
+    <state x="795" y="153" width="670" height="676" key="search.everywhere.popup" timestamp="1578478100754">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="795" y="153" width="670" height="676" key="search.everywhere.popup/0.23.1440.806@0.23.1440.806" timestamp="1578478100754" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DJANGO$urls.coverage" NAME="urls Coverage Results" MODIFIED="1580303999064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/IOT/IOT" />
+    <SUITE FILE_PATH="coverage/DJANGO$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1578473371744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Documents/DJANGO/lib/python3.7/site-packages/django/db/models" />
+    <SUITE FILE_PATH="coverage/DJANGO$admin.coverage" NAME="admin Coverage Results" MODIFIED="1578473299439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/IOT/profiles" />
+    <SUITE FILE_PATH="coverage/DJANGO$settings.coverage" NAME="settings Coverage Results" MODIFIED="1578473324385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/IOT/IOT" />
+    <SUITE FILE_PATH="coverage/DJANGO$models.coverage" NAME="models Coverage Results" MODIFIED="1578473452756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/IOT/profiles" />
+  </component>
+</project>
